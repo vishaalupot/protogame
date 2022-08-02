@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/protogame/static/css/main.f416a0c6.css",
-    "main.js": "/protogame/static/js/main.5859a4e2.js",
+    "main.js": "/protogame/static/js/main.75008a14.js",
     "static/js/787.6a541d2d.chunk.js": "/protogame/static/js/787.6a541d2d.chunk.js",
     "index.html": "/protogame/index.html",
     "main.f416a0c6.css.map": "/protogame/static/css/main.f416a0c6.css.map",
-    "main.5859a4e2.js.map": "/protogame/static/js/main.5859a4e2.js.map",
+    "main.75008a14.js.map": "/protogame/static/js/main.75008a14.js.map",
     "787.6a541d2d.chunk.js.map": "/protogame/static/js/787.6a541d2d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f416a0c6.css",
-    "static/js/main.5859a4e2.js"
+    "static/js/main.75008a14.js"
   ]
 }
