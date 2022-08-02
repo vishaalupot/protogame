@@ -9,7 +9,7 @@ function App() {
 
   const [min,setMin]=useState(5)
   const [sec,setSec]=useState(0)
-  const [pause,setPause]=useState(true)
+  const [pause,setPause]=useState(false)
 
 
   setTimeout(()=>{
@@ -32,14 +32,19 @@ function App() {
         
       }
     }
-  
-
   },10)
 
   
 
   return (
     <div className="App">
+
+
+      <div className="start">
+      <button className="button-65" role="button" onClick={() => {
+        setPause(true)
+      }} >START</button>
+      </div>
 
       <h1 className="time">{min} : {sec}</h1>
       
