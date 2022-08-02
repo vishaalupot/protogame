@@ -7,7 +7,7 @@ let score=0;
 
 function App() {
 
-  const [min,setMin]=useState(5)
+  const [min,setMin]=useState(7)
   const [sec,setSec]=useState(0)
   const [pause,setPause]=useState(false)
 
